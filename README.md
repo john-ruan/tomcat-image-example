@@ -1,1 +1,1 @@
-# tomcat-image-example2
+# tomcat-image-example
